@@ -1,4 +1,4 @@
-public abstract class Figura extends Object{
+public abstract class Figura{
 	public double obtenerArea(){
 		return 0.0;
 	}
